@@ -1,0 +1,36 @@
+h2 {
+    margin-top: 40px;
+    color: salmon;
+    padding-top: 20px;
+
+}
+
+body {
+    background-color: seashell;
+}
+
+.nav-link {
+    color: grey;
+}
+
+.left-float {
+    float: left;
+    margin-right: 40px;
+}
+
+header {
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.about-portfolio-contact {
+    background-color: salmon;
+    padding: 20px;
+    color: white;
+
+}
+
+.btn-primary {
+    background-color: salmon;
+    margin-top: 20px;
+}
